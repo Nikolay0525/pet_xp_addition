@@ -8,7 +8,7 @@
 // upstream and this one only corrects it for pets.
 //
 // The original saved FPU/SSE state by hand around its call; Kyubu's mid hook does that for us.
-#include "../../common.hpp"
+#include "../common.hpp"
 #include "cubeworld/cubeworld.h"
 
 #include <algorithm>
