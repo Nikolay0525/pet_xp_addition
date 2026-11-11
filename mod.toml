@@ -1,0 +1,10 @@
+id = "pet_xp_addition"
+name = "Pet XP Addition"
+version = "1.0.0"
+kyubu = "^1.1"
+sides = ["client"]
+authors = ["Intybyte (original), ported"]
+description = "Pets that are behind their owner earn more XP."
+
+[native]
+client = "bin/pet_xp_addition.dll"
